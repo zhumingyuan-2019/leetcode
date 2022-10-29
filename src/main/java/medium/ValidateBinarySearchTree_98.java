@@ -1,4 +1,4 @@
-package easy;
+package medium;
 
 import common.PrintUtil;
 import common.TreeNode;
