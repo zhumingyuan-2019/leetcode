@@ -2,6 +2,7 @@ package medium;
 
 import common.PrintUtil;
 import common.TreeNode;
+import java.util.Arrays;
 import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
@@ -14,6 +15,7 @@ import java.util.List;
 public class ValidateBinarySearchTree_98 {
 
     public long[] recursion(TreeNode root) {
+
         if (root == null) {
             return null;
         }
