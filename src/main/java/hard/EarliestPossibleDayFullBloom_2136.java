@@ -25,6 +25,10 @@ public class EarliestPossibleDayFullBloom_2136 {
         return result;
     }
 
+    /**
+     * Earliest Possible Day of Full Bloom
+     * @param args
+     */
     public static void main(String[] args) {
         /**
          * [1,4,3]
