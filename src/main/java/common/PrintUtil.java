@@ -19,4 +19,18 @@ public class PrintUtil {
         System.out.println();
 
     }
+
+
+    public static void print(int[] array) {
+
+        for(int e : array) {
+            System.out.print(e);
+            System.out.print("; ");
+
+        }
+        System.out.println();
+
+    }
+
+
 }
